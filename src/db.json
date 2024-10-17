@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "empno": 1001,
+      "empname": "Shumayla khan",
+      "email": " shumayla123@gmail.com",
+      "contact": "987546258",
+      "salary": 30000
+    },
+    {
+      "id": "2",
+      "empno": 1002,
+      "empname": "Aanurag sahu",
+      "email": " anurag23@gmail.com",
+      "contact": 89875426,
+      "salary": 25000
+    },
+    {
+      "id": "3",
+      "empno": 1003,
+      "empname": "Amartaya",
+      "email": " amartya123@gmail.com",
+      "contact": 874875691,
+      "salary": 28000
+    },
+    {
+      "id": "4",
+      "empno": 1004,
+      "empname": "Kamlesh",
+      "email": " kamlesh123@gmail.com",
+      "contact": 875423691,
+      "salary": 28500
+    },
+    {
+      "id": "5",
+      "empno": 1005,
+      "empname": "Nazneen",
+      "email": " nazneen123@gmail.com",
+      "contact": 586794258,
+      "salary": 30000
+    },
+    {
+      "id": "6061",
+      "empno": "1006",
+      "empname": "Rahul Agrawal",
+      "email": "rahul123@gmail.com",
+      "contact": "548269753",
+      "salary": "32000"
+    },
+    {
+      "id": "7d5e",
+      "empno": "1007",
+      "empname": "Adiba siddiqui",
+      "email": "adibasiddiqui123@gmail.com",
+      "contact": "785423690",
+      "salary": "33000"
+    }
+  ]
+}
