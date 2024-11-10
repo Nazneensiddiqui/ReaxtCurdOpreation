@@ -2,7 +2,7 @@ import { useState , useEffect } from "react";
 import axios from "axios";
 
 const Display=()=>{
-    const[empData, setempdata]=useState([]);
+    const[empData, setempdata]=useState([]);  
     const loadData=()=>{
         let url= "http://localhost:3000/employees";
         axios.get(url).then((res)=>{
